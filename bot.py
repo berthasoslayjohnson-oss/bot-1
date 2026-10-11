@@ -277,5 +277,6 @@ class AnimeBot(discord.Client):
         await self.wait_until_ready()
 
 
-client = AnimeBot()
-client.run(TOKEN)
+if __name__ == '__main__':
+    client = AnimeBot()
+    client.run(TOKEN)
