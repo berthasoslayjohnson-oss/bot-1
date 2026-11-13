@@ -3,12 +3,12 @@
     "alya": {
       "id": 181641,
       "name": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san Season 2",
-      "checked": 1794584201
+      "checked": 1794605842
     },
     "ao haru ride": {
       "id": null,
       "name": null,
-      "checked": 1794584204
+      "checked": 1794605844
     },
     "the apothecary diaries": {
       "id": 200929,
@@ -18,17 +18,17 @@
     "attack on titan": {
       "id": null,
       "name": null,
-      "checked": 1794584209
+      "checked": 1794605850
     },
     "blue box": {
       "id": 189123,
       "name": "Blue Box Season 2",
-      "checked": 1794584212
+      "checked": 1794605852
     },
     "boruto: naruto next generations": {
       "id": 165523,
       "name": "BORUTO: NARUTO NEXT GENERATIONS Part 2",
-      "checked": 1794584215
+      "checked": 1794605855
     },
     "case closed": {
       "id": 235,
@@ -163,7 +163,7 @@
     "the apothecary diaries season 3": {
       "id": 195516,
       "name": "The Apothecary Diaries Season 3",
-      "checked": 1794584207
+      "checked": 1794605847
     }
   },
   "posted": [
@@ -186,6 +186,6 @@
     421729,
     418787
   ],
-  "last_check": 1794584346,
+  "last_check": 1794605857,
   "summary_sent": true
 }
