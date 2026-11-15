@@ -3,12 +3,12 @@
     "alya": {
       "id": 181641,
       "name": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san Season 2",
-      "checked": 1794699809
+      "checked": 1794741148
     },
     "ao haru ride": {
       "id": null,
       "name": null,
-      "checked": 1794699812
+      "checked": 1794741151
     },
     "the apothecary diaries": {
       "id": 200929,
@@ -18,152 +18,152 @@
     "attack on titan": {
       "id": null,
       "name": null,
-      "checked": 1794699817
+      "checked": 1794741156
     },
     "blue box": {
       "id": 189123,
       "name": "Blue Box Season 2",
-      "checked": 1794699820
+      "checked": 1794741159
     },
     "boruto: naruto next generations": {
       "id": 165523,
       "name": "BORUTO: NARUTO NEXT GENERATIONS Part 2",
-      "checked": 1794699822
+      "checked": 1794741162
     },
     "case closed": {
       "id": 235,
       "name": "Detective Conan",
-      "checked": 1794699825
+      "checked": 1794741164
     },
     "chihayafuru": {
       "id": null,
       "name": null,
-      "checked": 1794699827
+      "checked": 1794741167
     },
     "classroom of the elite (cote)": {
       "id": null,
       "name": null,
-      "checked": 1794699830
+      "checked": 1794741169
     },
     "dandadan": {
       "id": 198966,
       "name": "Dandadan 3rd Season",
-      "checked": 1794699832
+      "checked": 1794741172
     },
     "the girl i like forgot her glasses": {
       "id": null,
       "name": null,
-      "checked": 1794699835
+      "checked": 1794741175
     },
     "i made friends with the second prettiest girl in my class": {
       "id": null,
       "name": null,
-      "checked": 1794699838
+      "checked": 1794741177
     },
     "insomniacs": {
       "id": null,
       "name": null,
-      "checked": 1794699840
+      "checked": 1794741180
     },
     "jujutsu kaisen": {
       "id": 209895,
       "name": "Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen",
-      "checked": 1794699843
+      "checked": 1794741182
     },
     "kaguya": {
       "id": 205081,
       "name": "Kaguya-sama wa Kokurasetai: Kanketsu-hen",
-      "checked": 1794699845
+      "checked": 1794741185
     },
     "kimi ni todoke": {
       "id": null,
       "name": null,
-      "checked": 1794699848
+      "checked": 1794741188
     },
     "kono oto tomare": {
       "id": null,
       "name": null,
-      "checked": 1794699850
+      "checked": 1794741190
     },
     "maid sama!": {
       "id": null,
       "name": null,
-      "checked": 1794699853
+      "checked": 1794741193
     },
     "march comes in like a lion": {
       "id": null,
       "name": null,
-      "checked": 1794699855
+      "checked": 1794741195
     },
     "more than a married couple, but not lovers": {
       "id": null,
       "name": null,
-      "checked": 1794699858
+      "checked": 1794741198
     },
     "my little monster": {
       "id": null,
       "name": null,
-      "checked": 1794699861
+      "checked": 1794741201
     },
     "my youth romantic comedy is wrong, as i expected (oregairu)": {
       "id": null,
       "name": null,
-      "checked": 1794699863
+      "checked": 1794741203
     },
     "naruto": {
       "id": 162561,
       "name": "NARUTO\u00d7NINKU",
-      "checked": 1794699866
+      "checked": 1794741206
     },
     "polar opposites": {
       "id": null,
       "name": null,
-      "checked": 1794699868
+      "checked": 1794741208
     },
     "the ramparts of ice": {
       "id": 213805,
       "name": "The Ramparts of Ice Season 2",
-      "checked": 1794699871
+      "checked": 1794741211
     },
     "romantic killer": {
       "id": null,
       "name": null,
-      "checked": 1794699873
+      "checked": 1794741214
     },
     "solo leveling": {
       "id": 213846,
       "name": "Solo Leveling: Beyond the System",
-      "checked": 1794699876
+      "checked": 1794741216
     },
     "toradora": {
       "id": null,
       "name": null,
-      "checked": 1794699878
+      "checked": 1794741219
     },
     "tsuki ga kirei": {
       "id": null,
       "name": null,
-      "checked": 1794699881
+      "checked": 1794741221
     },
     "your lie in april": {
       "id": null,
       "name": null,
-      "checked": 1794699884
+      "checked": 1794741224
     },
     "frieren": {
       "id": 209939,
       "name": "Sousou no Frieren 3rd Season",
-      "checked": 1794699886
+      "checked": 1794741227
     },
     "wotakoi:love is hard for otaku": {
       "id": null,
       "name": null,
-      "checked": 1794699889
+      "checked": 1794741229
     },
     "the apothecary diaries season 3": {
       "id": 195516,
       "name": "The Apothecary Diaries Season 3",
-      "checked": 1794699815
+      "checked": 1794741154
     }
   },
   "posted": [
@@ -185,8 +185,9 @@
     423028,
     421729,
     418787,
-    422942
+    422942,
+    423029
   ],
-  "last_check": 1794712224,
+  "last_check": 1794741232,
   "summary_sent": true
 }
